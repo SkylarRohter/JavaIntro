@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7330d319-ece6-470d-83fa-4f70edef7a29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/novahc/Unit1/Lesson1/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/novahc/Unit1/Lesson1/Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/novahc/Unit1/Lesson1/Variables.java" afterDir="false" />
+    <list default="true" id="7330d319-ece6-470d-83fa-4f70edef7a29" name="Changes" comment="Lesson 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/novahc/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/novahc/Unit1/Lesson1/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/novahc/Printing.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +54,16 @@
       <updated>1678898313660</updated>
       <workItem from="1678898315418" duration="252000" />
       <workItem from="1681319184606" duration="167000" />
-      <workItem from="1681321351490" duration="576000" />
+      <workItem from="1681321351490" duration="874000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson 1">
+      <created>1681321943897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681321943897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1" />
   </component>
 </project>
